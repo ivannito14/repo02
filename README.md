@@ -21,4 +21,4 @@ realizar un commit.
 ![altext](Screenshot_19.png)
 - Como no lo tenemos lo que vamos hacer es un ``git push -u origin main`` para que este todo en la misma linea ara si volvemos a poner ``git log --oneline``
 ![Alt text](Screenshot_19-1.png)
-- Ara hacemos un ``git push origin main`` para subir el fichero.
+- Ara hacemos un ``git push origin main`` para subir el fichero a git hub.
